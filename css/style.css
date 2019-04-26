@@ -1,0 +1,21 @@
+.header{
+	background: blue; 
+	height: 100px; 
+	width: 100%;
+}
+.leftblock{
+	background: green; 
+	height: 1500px; 
+	width: 250px;
+	float: left;
+}
+.main{
+	background: red; 
+	height: 1500px; 
+	width: 100%;
+}
+.footer{
+	background: yellow; 
+	height: 100px; 
+	width: 100%;
+}
